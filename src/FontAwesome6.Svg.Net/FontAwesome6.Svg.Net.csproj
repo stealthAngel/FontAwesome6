@@ -32,6 +32,10 @@
 	<ItemGroup Condition="'$(Configuration)'=='Debug' Or '$(Configuration)'=='Release'">
 		<EmbeddedResource Include="..\..\generated\Font-Awesome\FontAwesomeSvg.all.json" Link="Data\FontAwesomeSvg.all.json" />
 	</ItemGroup>
+	
+	<ItemGroup>
+	  <Folder Include="Data\" />
+	</ItemGroup>
 
 	<Import Project="..\FontAwesome6.Svg.Shared\FontAwesome6.Svg.Shared.projitems" Label="Shared" />
 

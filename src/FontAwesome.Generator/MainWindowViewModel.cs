@@ -39,7 +39,7 @@ namespace FontAwesome.Generator
 
         public MainWindowViewModel()
         {
-            Version = "6.1.1";
+            Version = "6.4.0";
 
             var root = Path.GetFullPath(Path.Combine(Directory.GetCurrentDirectory(), "..", ".."));
 

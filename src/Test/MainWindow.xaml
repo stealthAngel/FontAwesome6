@@ -1,0 +1,22 @@
+﻿<Window
+    x:Class="Test.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:fa="http://schemas.fontawesome.com/icons/svg"
+    xmlns:local="clr-namespace:Test"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="MainWindow"
+    Width="800"
+    Height="450"
+    mc:Ignorable="d">
+    <Grid>
+        <fa:SvgAwesome
+            Icon="Regular_User"
+            PrimaryColor="Black"
+            PrimaryOpacity="1"
+            SecondaryColor="Green"
+            SecondaryOpacity="0.4"
+            SwapOpacity="false" />
+    </Grid>
+</Window>
