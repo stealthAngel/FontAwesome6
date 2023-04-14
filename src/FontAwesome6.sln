@@ -89,7 +89,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FontAwesome6.Example.WinUI"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FontAwesome6.Example.WinUI.NuGet", "FontAwesome6.Example.WinUI.NuGet\FontAwesome6.Example.WinUI.NuGet.csproj", "{0AB23082-237E-4E28-ACCF-1713DA8631C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{95386718-BCAE-43ED-B6C8-CDC17DF2C292}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesktopClient.Framework.FontAwesome", "Test\DesktopClient.Framework.FontAwesome.csproj", "{95386718-BCAE-43ED-B6C8-CDC17DF2C292}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
